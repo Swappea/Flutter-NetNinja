@@ -1,0 +1,16 @@
+Flutter
+
+-- mobile ui frmwrk for creating native apps for ios and android
+-- dart is the language developed by google(oop based)
+-- 1 codebase
+-- good layout methodology
+-- hot reload
+-- use material design
+
+Flutter overview
+
+-- everything inside flutter is widget(like component based in angular)
+-- e.g: Text Widget, Button widget, Row widget, Column widget
+-- each widgets have different properties
+-- All widgets are classes
+ 
