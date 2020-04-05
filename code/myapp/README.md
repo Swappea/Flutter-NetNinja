@@ -15,12 +15,12 @@
 * e.g: Text Widget, Button widget, Row widget, Column widget
 * each widgets have different properties
 * All widgets are classes
- 
+
 * Language used is Dart:
   * developed by google
   * similar to other languages
   * it has classes, functions, async code
-  
+
 ## Dart Primer
 
 * void main() is called by default
@@ -28,7 +28,7 @@
   * **int**, **String**, **bool**
   * Dart has **dynamic** data type
     * change the type in the future(similar to js)
-    * **dynamic** keyword is used to set dynamic datatype variable
+    * **dynamic** keyword is used to set dynamic Data Type variable
 * **Function**
   * should have defined return type and if void then no return
   * String greeting() => 'hellos'; -- one liner arrow function to return something
@@ -44,3 +44,4 @@
 ## Flutter Project
 
 * runApp is a function which takes root widget and runs the appln in the main fn
+* scaffold widget allows us to define a basic layout
