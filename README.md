@@ -41,6 +41,11 @@
   * has constructor
   * supports inheritance(extends keyword)
 
+https://pub.dev/
+https://flutter.dev/docs/cookbook
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1 - animation
+
 ## Flutter Project
 
 * runApp is a function which takes root widget and runs the appln in the main fn
