@@ -44,5 +44,12 @@
 ## Flutter Project
 
 * runApp is a function which takes root widget and runs the appln in the main fn
-* Stateful widget - state of the widget can change over time
-* Stateless widget - state of the widget cannot change over time
+* Stateful widget 
+  - state of the widget can change over time
+  - setState() triggers the build function
+  -- initState() - called only once when widget is created, subscribe to streams
+  -- Build() -- builds the widget tree, triggered everttime use setState()
+  -- Dispose() -- when widget/state obj is removed
+* Stateless widget 
+  - state of the widget cannot change over time
+  - build function only runs  once
